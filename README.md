@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/sanmai/ad-sorter.svg?branch=master)](https://travis-ci.com/sanmai/ad-sorter)
+
 # Ad Sorter
 
 The task is to make a reusable library that will take a list of some current and pending advertisements (AKA banners), then keeping only one of them according to certain rules. Each banner has a time limit set by start and end times, specified with a timezone.
