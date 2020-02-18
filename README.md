@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/sanmai/ad-sorter.svg?branch=master)](https://travis-ci.com/sanmai/ad-sorter)
+[![Build Status](https://travis-ci.com/sanmai/adsorter.svg?branch=master)](https://travis-ci.com/sanmai/adsorter)
 
 # Ad Sorter
 
