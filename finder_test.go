@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	bs "github.com/sanmai/ad-sorter"
+	bs "github.com/sanmai/adsorter"
 )
 
 func TestDateTimeMath(t *testing.T) {
